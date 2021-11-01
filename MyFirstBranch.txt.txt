@@ -1,4 +1,22 @@
 Hey 
 
 
-Created My First Branch
+Well Done For Creating new branch.
+
+
+Here is update for your code.........
+
+
+
+if(like)
+{
+  print("Like the Code");
+}
+else if(!like)
+{
+  print("Doesn't like the Code");
+}
+
+
+
+
